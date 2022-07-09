@@ -1,0 +1,71 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90vh;
+}
+
+.home-left {
+    width: 50%;
+}
+
+.home-header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #222222;
+}
+
+.home-text-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    width: 400px;
+    margin-top: 5px;
+}
+
+.carousel-con {
+    width: 50%;
+}
+
+.carousel-status {
+    display: none;
+}
+
+.thumbs-wrapper {
+    display: none;
+}
+
+.carousel .control-prev.control-arrow {
+    display: none !important;
+}
+
+.carousel.carousel-slider .control-arrow:hover {
+    display: none !important;
+}
+
+.carousel .control-next.control-arrow {
+    display: none !important;
+}
+
+.carousel .control-dots {
+    position: absolute !important;
+    z-index: 1 !important;
+    margin-top: 50px !important;
+    margin-bottom: -30px !important;
+}
+
+.carousel.carousel-slider {
+    overflow: visible !important;
+}

@@ -1,0 +1,11 @@
+.reset-text2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}

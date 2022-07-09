@@ -1,0 +1,102 @@
+.sign-up-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #559f94;
+    cursor: pointer;
+}
+
+.sign-up-text2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items:center;
+}
+
+.form2 {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    justify-content: center;
+    align-items:center;
+}
+
+.form-header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-transform: capitalize;
+    color: #222222;
+}
+
+.form-space{
+    margin-bottom: 30px;
+}
+
+.sign {
+    margin-bottom: 100px;
+}
+
+.otp-flex-con {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.otp {
+    width: 45px;
+    height: 55px;
+    border: 2px solid #559F94;
+    border-radius: 10px;
+    outline: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.otp::placeholder {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    color: #333333
+}
+
+.otp-space {
+    margin-left: 20px;
+}
+
+.otp-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #222222;
+    margin-top: 20px;
+}
+
+.otp-link{
+    font-weight: 700;
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.otp-input-con{
+    margin-left: 20px;
+}

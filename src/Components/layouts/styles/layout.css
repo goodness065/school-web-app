@@ -1,0 +1,16 @@
+.layout-main-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+}
+
+.layout-left,
+.layout-right {
+  width: 50%;
+}
+
+.registration-img{
+    width: 100%;
+    height: 100%;
+}

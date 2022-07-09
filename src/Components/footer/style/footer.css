@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #A6A6A6;
+    height: 218px;
+    padding-top: 20px;
+}
+
+.footer-con{
+    width: 32%;
+}
+
+.footer-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #222222;
+    text-align: center;
+    padding-bottom: 14px;
+}
+
+.footer-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    text-transform: capitalize;
+    color: #222222;
+}
